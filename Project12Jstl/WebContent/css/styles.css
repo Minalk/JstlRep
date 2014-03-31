@@ -1,0 +1,22 @@
+#contents {
+	width: 640px;	
+	horizontal-align: middle;
+}
+
+.ms-grid tr {
+	line-height: 24px;
+}
+
+.square {
+	border: 1px solid #0B6121;;
+	min-width: 24px;
+}
+
+.marked {
+	background-color: RED;
+}
+
+.gameOver {
+	color: RED;
+	font-style: bold;
+}
